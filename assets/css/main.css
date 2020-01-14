@@ -176,7 +176,8 @@ input, select, textarea {
 		margin: 0 0 2rem 0;
 	}
 	.yellow {
-		color: rgb(255, 255, 0);
+		font-style: none;
+		color: rgb(255, 255, 255);
 	}
 
 	h1, h2, h3, h4, h5, h6 {
